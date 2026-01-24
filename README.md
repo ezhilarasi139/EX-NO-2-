@@ -178,3 +178,6 @@ int main() {
 
 ## Output:
 <img width="671" height="591" alt="image" src="https://github.com/user-attachments/assets/00629c97-fc28-441a-920a-01994c5adce2" />
+## Result:
+
+Thus the implementation of the Playfair Substitution technique is executed successfully.
